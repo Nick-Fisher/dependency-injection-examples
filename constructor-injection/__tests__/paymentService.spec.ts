@@ -1,6 +1,6 @@
-import { PaymentService } from "./paymentService";
+import { PaymentService } from "../paymentService";
 import { instance, mock, resetCalls, verify, when } from "ts-mockito";
-import { ILogger } from "./ILogger";
+import { ILogger } from "../ILogger";
 
 const mockedLogger = mock<ILogger>();
 when(mockedLogger.info).thenReturn(() => null);
