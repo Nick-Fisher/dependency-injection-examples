@@ -1,1 +1,1 @@
-```Most examples is represented by [Andrey Melikhov]: [https://www.youtube.com/watch?v=inJMee0Jl90]```
+Most examples is represented by [Andrey Melikhov](https://www.youtube.com/watch?v=inJMee0Jl90)
